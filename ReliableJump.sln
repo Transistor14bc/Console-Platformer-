@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReliableJump", "ReliableJump\ReliableJump.csproj", "{CBAF4668-F0C7-4189-B42F-E4122422834F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrulixConsole", "TrulixConsole\TrulixConsole.csproj", "{F718FB93-7B08-4F29-AC2A-06800EA0A8D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAF4668-F0C7-4189-B42F-E4122422834F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAF4668-F0C7-4189-B42F-E4122422834F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAF4668-F0C7-4189-B42F-E4122422834F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAF4668-F0C7-4189-B42F-E4122422834F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F718FB93-7B08-4F29-AC2A-06800EA0A8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F718FB93-7B08-4F29-AC2A-06800EA0A8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F718FB93-7B08-4F29-AC2A-06800EA0A8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F718FB93-7B08-4F29-AC2A-06800EA0A8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3137CB-C0EA-4986-8CBF-E46475679BB5}
+	EndGlobalSection
+EndGlobal
